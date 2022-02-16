@@ -2,7 +2,6 @@
     "pages": [
         "pages/home/home",
         "pages/article/article",
-        "pages/logs/logs",
         "pages/index/index",
         "pages/pagenav/pagenav"
     ],
