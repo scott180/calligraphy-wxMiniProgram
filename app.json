@@ -2,7 +2,7 @@
     "pages": [
         "pages/index/index",
         "pages/post/post",
-        "pages/hot/hot"
+        "pages/about/about"
     ],
     "window": {
         "backgroundTextStyle": "light",
@@ -21,8 +21,8 @@
                 "selectedIconPath": "./assets/imgs/home_active.png"
             },
             {
-                "pagePath": "pages/hot/hot",
-                "text": "热门",
+                "pagePath": "pages/about/about",
+                "text": "作者",
                 "iconPath": "./assets/imgs/hot.png",
                 "selectedIconPath": "./assets/imgs/hot_active.png"
             }

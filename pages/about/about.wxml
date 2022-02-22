@@ -1,0 +1,11 @@
+<view class='margin-xl bg-white padding-xl radius shadow-lg'>
+	<view class='text-center margin-bottom text-lg  text-grey'>书法练习轨迹</view>
+	<view class='text-content'>
+		<view>书法练习轨迹--明月几时有</view>
+		<view class='margin-top-sm'>人情必有所寄，习惯而成自然。练着练着，书法就成了生活的一部分，记录书法练习轨迹更是有趣有意思的点缀。不能说是点缀，于我而言，练字与记录是相辅相成、缺一不可的关系。</view>
+		<view class='margin-top-sm'>注册了微信公众号：**无为徐生**，以后会将书法练习轨迹、程序员笔记以及一些随笔感想更新在此。</view>
+		<view class='margin-top-sm'>每周一会在无为徐生微信公众号同步《书法练习轨迹》，持续更新，敬请关注。</view>
+		<view class='margin-top-sm'></view>
+		<image src="https://xyqin.coding.net/p/my/d/imgs/git/raw/master/other/wuweixusheng_weixin.png" mode="aspectFit" class="gif-wave"></image>
+	</view>
+</view>
