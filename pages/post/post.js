@@ -98,11 +98,10 @@ Page({
         that.setData({
           title: res.data[0].title
         });
-        WxParse.wxParse('article', 'html', content, that, 12);
+        WxParse.wxParse('article', 'html', content.replace(/\\n/g,'\n') , that, 12);
       }).catch(err => {
         console.log('fail', err);
       })
-
   },
   wxParseImgLoad(e) {
     var that = this;

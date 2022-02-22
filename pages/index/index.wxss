@@ -28,7 +28,7 @@
 }
 
 .post-tags {
-  display: block;
+  display: inline;
   margin: 10rpx 0;
   font-size: 12px;
 }

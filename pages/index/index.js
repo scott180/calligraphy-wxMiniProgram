@@ -3,16 +3,26 @@
 const app = getApp()
 const db = wx.cloud.database();
 
+const valGu ={abstractContent: "人心惟危，道心惟微；惟精惟一，允执厥中。允执厥中。允执厥中。\n天行健，君子以自强不息。地势坤，君子以厚德载物。", createdAt: "2021-05-04", id: 2, tags: ["古文","市场"], title: "古文诗词"};
 Page({
   data: {
     articleList: [],
     page: 1,
     hasMore: false
   },
-  onLoad: function () {
+  onLoad1: function () {
     //this.getArticleList();
     let that = this;
 
+    that.timeFormat(valGu.createdAt);
+    that.setData({
+      articleList: that.data.articleList.concat(valGu)
+    });
+  },
+
+  onLoad: function () {
+    //this.getArticleList();
+    let that = this;
     db.collection('data_v1_2_0') // 获取云控制台创建的集合引用
     .where({
       dataName: 'documentData'
