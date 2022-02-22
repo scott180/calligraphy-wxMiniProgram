@@ -6,10 +6,12 @@
 
 ---
 
-### 第一版 
+### 1、第一版 
 `v1.1.0_20220216`
 
 > 只有三个展示页面：首页、详情、个人。都是静态页面，不与数据库交互。
+
+---
 
 ![v1.1.0_1]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.1.0/1.jpg )
 
@@ -17,7 +19,7 @@
 [v1.1.0_1]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.1.0/1.jpg ) &ensp; [v1.1.0_2]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.1.0/2.jpg ) &ensp; [v1.1.0_3]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.1.0/3.jpg )
 ---
 
-### 第二版 
+### 2、第二版 
 `v1.2.0_20220222`
 
 > 有三个展示页面：首页、详情、作者。利用微信小程序云开发数据库，首页列表及详情数据来自于数据库。
@@ -29,13 +31,11 @@
 - 截图
 [v1.2.0_1]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.2.0/1.jpg ) &ensp; [v1.2.0_2]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.2.0/2.jpg ) &ensp; [v1.2.0_3]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.2.0/3.jpg )
 
----
-
 
 ***
 
 
-### 小程序 
+### 3、小程序 
 `书法练习轨迹 微信小程序`
 
 ---
