@@ -1,7 +1,6 @@
 //index.js
 //获取应用实例
 const app = getApp()
-const db = wx.cloud.database();
 
 Page({
   data: {
@@ -10,32 +9,11 @@ Page({
     hasMore: false
   },
   onLoad: function () {
-    //this.getArticleList();
-    let that = this;
-
-    db.collection('data_v1_2_0') // 获取云控制台创建的集合引用
-    .where({
-      dataName: 'documentData'
-    })
-   .get() // 查询
-      .then(res => {
-       console.log('success', res);
-        let data = res.data[0].list || [];
-        data.forEach(post => {
-          console.log('success', post);
-          post.createdAt = that.timeFormat(post.createdAt);
-        })
-        that.setData({
-          articleList: that.data.articleList.concat(data)
-        });
-      }).catch(err => {
-        console.log('fail', err);
-      })
+    this.getArticleList();
   },
-
   // get article list
   getArticleList() {
-    let url = 'https://webfem.com/posts?page=' + this.data.page + '&size=10';
+    let url = 'https://webfem.com/posts?page=' + this.data.page + '&size=10&by=visited';
     let that = this;
     wx.request({
       url: url,
@@ -78,5 +56,4 @@ Page({
       url: '/pages/post/post?id=' + id,
     })
   }
-
 })

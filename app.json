@@ -1,31 +1,30 @@
 {
     "pages": [
-        "pages/home/home",
-        "pages/article/article",
         "pages/index/index",
-        "pages/pagenav/pagenav"
+        "pages/post/post",
+        "pages/hot/hot"
     ],
     "window": {
         "backgroundTextStyle": "light",
         "navigationBarBackgroundColor": "#fff",
-        "navigationBarTitleText": "WeChat",
+        "navigationBarTitleText": "书法练习轨迹",
         "navigationBarTextStyle": "black"
     },
     "tabBar": {
-        "color": "#8a8a8a",
-        "selectedColor": "#1296db",
+        "color": "#a1a1a1",
+        "selectedColor": "#4572ae",
         "list": [
             {
-                "pagePath": "pages/home/home",
+                "pagePath": "pages/index/index",
                 "text": "首页",
-                "selectedIconPath": "images/home1.png",
-                "iconPath": "images/home2.png"
+                "iconPath": "./assets/imgs/home.png",
+                "selectedIconPath": "./assets/imgs/home_active.png"
             },
             {
-                "pagePath": "pages/index/index",
-                "text": "个人",
-                "selectedIconPath": "images/personal1.png",
-                "iconPath": "images/personal2.png"
+                "pagePath": "pages/hot/hot",
+                "text": "热门",
+                "iconPath": "./assets/imgs/hot.png",
+                "selectedIconPath": "./assets/imgs/hot_active.png"
             }
         ]
     },

@@ -1,5 +1,0 @@
-<!--pages/pagenav/pagenav.wxml-->
-<view class=''>
-  <view bindtap='goHome'>home</view>
-  <view bindtap='goLogs'>logs</view>
-</view>

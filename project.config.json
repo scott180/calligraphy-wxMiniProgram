@@ -1,13 +1,16 @@
 {
-    "description": "项目配置文件。",
+    "description": "书法练习轨迹",
+    "packOptions": {
+        "ignore": []
+    },
     "setting": {
         "urlCheck": true,
-        "es6": true,
+        "es6": false,
         "enhance": true,
         "postcss": true,
         "preloadBackgroundData": false,
         "minified": true,
-        "newFeature": true,
+        "newFeature": false,
         "coverView": true,
         "nodeModules": false,
         "autoAudits": false,
@@ -39,9 +42,9 @@
         "ignoreUploadUnusedFiles": true
     },
     "compileType": "miniprogram",
-    "libVersion": "1.9.93",
+    "libVersion": "2.0.4",
     "appid": "wx0b0e05536bff851d",
-    "projectname": "calligraphy-wxMiniProgram",
+    "projectname": "project",
     "isGameTourist": false,
     "condition": {
         "search": {
