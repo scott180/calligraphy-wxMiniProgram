@@ -3959,3 +3959,10 @@ scroll-view.cu-steps .cu-item {
 .lines-white {
 	color: var(--white);
 }
+
+.post-title {
+  display: inline-block;
+  font-size: 14px;
+  line-height: 28px;
+  color: #000000;
+}
