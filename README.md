@@ -7,9 +7,10 @@
 ---
 
 ### 1、第一版 
-`v1.1.0_20220216`
 
 > 只有三个展示页面：首页、详情、个人。都是静态页面，不与数据库交互。
+
+`分支：v1.1.0_20220216`
 
 ---
 
@@ -20,9 +21,10 @@
 ---
 
 ### 2、第二版 
-`v1.2.0_20220222`
 
 > 有三个展示页面：首页、详情、作者。利用微信小程序云开发数据库，首页列表及详情数据来自于数据库。
+
+`分支：v1.2.0_20220222`
 
 ---
 
@@ -30,6 +32,12 @@
 
 - 截图
 [v1.2.0_1]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.2.0/1.jpg ) &ensp; [v1.2.0_2]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.2.0/2.jpg ) &ensp; [v1.2.0_3]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.2.0/3.jpg )
+
+---
+
+> 第2.1版：菜单图标修改、作者介绍文字复制、作者介绍图片预览。
+
+`分支：v1.2.1_20220223`
 
 
 ***
