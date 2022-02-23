@@ -39,6 +39,7 @@
 
 `分支：v1.2.1_20220223`
 
+![v1.2.0_4]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.2.0/4.jpg )
 
 ***
 
