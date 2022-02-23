@@ -17,14 +17,14 @@
             {
                 "pagePath": "pages/index/index",
                 "text": "首页",
-                "iconPath": "./assets/imgs/home2.png",
-                "selectedIconPath": "./assets/imgs/home1.png"
+                "iconPath": "./assets/imgs/home.png",
+                "selectedIconPath": "./assets/imgs/home_active.png"
             },
             {
                 "pagePath": "pages/about/about",
                 "text": "作者",
-                "iconPath": "./assets/imgs/personal2.png",
-                "selectedIconPath": "./assets/imgs/personal1.png"
+                "iconPath": "./assets/imgs/hot.png",
+                "selectedIconPath": "./assets/imgs/hot_active.png"
             }
         ]
     },
