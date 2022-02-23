@@ -28,7 +28,7 @@
 
 ---
 
-![v1.2.0_1]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.2.0/1.jpg )
+![v1.2.0_2]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.2.0/2.jpg )
 
 - 截图
 [v1.2.0_1]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.2.0/1.jpg ) &ensp; [v1.2.0_2]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.2.0/2.jpg ) &ensp; [v1.2.0_3]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.2.0/3.jpg )
@@ -45,7 +45,8 @@
 
 
 ### 3、小程序 
-`书法练习轨迹 微信小程序`
+
+- 微信小程序：**书法练习轨迹**
 
 ---
 
