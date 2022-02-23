@@ -1,3 +1,4 @@
+// v1.2.0_20220222
 const app = getApp();
 Page({
   data: {
