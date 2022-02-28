@@ -41,10 +41,29 @@
 
 ![v1.2.0_4]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.2.0/4.jpg )
 
+---
+
+### 3、第三版 
+
+> 小有更新。
+> 1、添加书法列表及详情页面。
+> 2、菜单图标修改。
+
+`分支：v1.3.0_20220228`
+
+---
+
+![v1.3.0_1]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.3.0/1.jpg )
+
+- 截图
+[v1.3.0_1]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.3.0/1.jpg ) &ensp; [v1.3.0_2]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.3.0/2.jpg )
+
 ***
 
 
-### 3、小程序 
+
+
+### 4、小程序 
 
 - 微信小程序：**书法练习轨迹**
 
