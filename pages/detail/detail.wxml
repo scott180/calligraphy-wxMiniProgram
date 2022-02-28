@@ -1,7 +1,10 @@
 <view class="container">
   <view class="content">
-    <view class="detail-title">{{title}}</view>
-    <view class="detail-content"><text selectable="true">{{content}}</text></view>
+    <view class="detail-title"><text selectable="true">{{title}}</text></view>
+    <view class="post-abstract" wx:for="{{contents}}" wx:for-item="content" wx:for-index="i" wx:key="i">
+      <text selectable="true">{{content}}</text>
+    </view>
+    <view class="detail-content"><text> </text> </view>
     <view class="detail-content" wx:for="{{imgs}}" wx:for-item="img" wx:for-index="i" wx:key="i">
           <image src="{{img}}" mode="aspectFit" bindtap="enlarge" data-src="{{img}}" data-list="{{imgs}}"></image>
     </view>

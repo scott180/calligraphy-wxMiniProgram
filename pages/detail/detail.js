@@ -97,7 +97,7 @@ Page({
        console.log('success', data);
         that.setData({
           title: data.title,
-          content: data.content,
+          contents: data.contents,
           imgs: data.imgs
         });
       }).catch(err => {
