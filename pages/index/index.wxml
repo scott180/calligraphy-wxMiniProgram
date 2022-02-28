@@ -1,16 +1,15 @@
-<!--index.wxml-->
+<!-- index.wxml -->
 <view class="container">
   <view class="content">
     <view class="post-list">
       <view class="artical post" wx:for="{{articleList}}" wx:key="index" bindtap="toDetail" data-id="{{item.title}}">
-        <view class="post-title">{{item.title}}</view>
+        <view class="post-title"><text selectable="true">{{item.title}}</text></view>
         <view class="post-meta">{{item.createdAt}}</view>
-        <view class="post-abstract">{{item.abstractContent}}</view>
+        <view class="post-abstract"><text selectable="true">{{item.abstractContent}}</text></view>
         <view class="post-tags" wx:for="{{item.tags}}" wx:for-item="tag" wx:for-index="i" wx:key="i">
           <view class="tag">{{tag}}</view>
         </view>
       </view>
     </view>
-
   </view>
 </view>
