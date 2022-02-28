@@ -1,5 +1,7 @@
 {
     "pages": [
+        "pages/calligraphy/calligraphy",
+        "pages/detail/detail",
         "pages/index/index",
         "pages/post/post",
         "pages/about/about"
@@ -15,8 +17,14 @@
         "selectedColor": "#4572ae",
         "list": [
             {
+                "pagePath": "pages/calligraphy/calligraphy",
+                "text": "书法",
+                "iconPath": "./assets/imgs/home2.png",
+                "selectedIconPath": "./assets/imgs/home1.png"
+            },
+            {
                 "pagePath": "pages/index/index",
-                "text": "首页",
+                "text": "练习",
                 "iconPath": "./assets/imgs/home2.png",
                 "selectedIconPath": "./assets/imgs/home1.png"
             },
