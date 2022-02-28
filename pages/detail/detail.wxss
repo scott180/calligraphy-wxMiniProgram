@@ -126,9 +126,14 @@
 }
 
 .post-abstract {
-  padding: 10rpx 10rpx;
-  line-height: 18px;
+  padding: 11rpx 11rpx;
+  line-height: 22px;
   color: #666;
   font-size: 15px;
   margin: 0;
 }
+
+.imagesize{               
+  justify-content: center;        
+  align-items:center;             
+ }
