@@ -19,20 +19,20 @@
             {
                 "pagePath": "pages/calligraphy/calligraphy",
                 "text": "书法",
-                "iconPath": "./assets/imgs/home2.png",
-                "selectedIconPath": "./assets/imgs/home1.png"
+                "iconPath": "./assets/imgs/home.png",
+                "selectedIconPath": "./assets/imgs/home_click.png"
             },
             {
                 "pagePath": "pages/index/index",
                 "text": "练习",
-                "iconPath": "./assets/imgs/home2.png",
-                "selectedIconPath": "./assets/imgs/home1.png"
+                "iconPath": "./assets/imgs/like.png",
+                "selectedIconPath": "./assets/imgs/like_click.png"
             },
             {
                 "pagePath": "pages/about/about",
                 "text": "作者",
-                "iconPath": "./assets/imgs/personal2.png",
-                "selectedIconPath": "./assets/imgs/personal1.png"
+                "iconPath": "./assets/imgs/about.png",
+                "selectedIconPath": "./assets/imgs/about_click.png"
             }
         ]
     },
