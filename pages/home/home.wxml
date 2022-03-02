@@ -6,7 +6,7 @@
   <view class='home-main'>
     <view class='home-main-list' bindtap='goArticle'>
       <view class='main-list-img-view'>
-        <image class='main-list-img' src='https://xyqin.coding.net/p/my/d/imgs/git/raw/master/%E4%B9%A6%E6%B3%95%E5%AD%97%E5%B8%96/王羲之-兰亭集序.jpg'></image>
+        <image class='main-list-img' src='../../images/古.jpg'></image>
       </view>
       <view class='list-main'>
         <view class='list-title'>古文诗词</view>
@@ -19,7 +19,7 @@
 
     <view class='home-main-list' bindtap='goArticle'>
       <view class='main-list-img-view'>
-        <image class='main-list-img' src='https://xyqin.coding.net/p/my/d/imgs/git/raw/master/%E4%B9%A6%E6%B3%95%E5%AD%97%E5%B8%96/颜真卿-多宝塔碑.jpg'></image>
+        <image class='main-list-img' src='../../images/书.jpg'></image>
       </view>
       <view class='list-main'>
         <view class='list-title'>书法练习轨迹ReadMe</view>
@@ -32,7 +32,7 @@
 
     <view class='home-main-list' bindtap='goArticle'>
       <view class='main-list-img-view'>
-        <image class='main-list-img' src='https://xyqin.coding.net/p/my/d/imgs/git/raw/master/%E4%B9%A6%E6%B3%95%E5%AD%97%E5%B8%96/文徵明-小楷赤壁赋.jpg'></image>
+        <image class='main-list-img' src='../../images/明.jpg'></image>
       </view>
       <view class='list-main'>
         <view class='list-title'>书法练习轨迹--明月几时有</view>
