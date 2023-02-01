@@ -1,0 +1,17 @@
+<!--pages/article/article.wxml-->
+<view class='wrap'>
+<view class='article-title'>
+    无为徐生
+</view>
+<view class='article-time'>
+    2021年8月
+</view>
+<view class='article-content'>
+    无为有为，徐生长生。
+</view>
+<view class='article-content'>
+    人生在世，有所作为，文化长生，思想永恒。
+</view>
+
+
+</view>

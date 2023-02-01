@@ -4,44 +4,47 @@
     <view class="mobile-title">书法练习轨迹</view>
   </view>
   <view class='home-main'>
-    <view class='home-main-list' bindtap='goArticle'>
+    <view class='home-main-list' bindtap='goArticle3'>
       <view class='main-list-img-view'>
-        <image class='main-list-img' src='../../images/古.jpg'></image>
+        <image class='main-list-img' src='../../images/徐.jpg'></image>
       </view>
       <view class='list-main'>
-        <view class='list-title'>古文诗词</view>
+        <view class='list-title'>徐书法</view>
         <view class='list-content'>
-          天行健，君子以自强不息。
+          三位一体，循序渐进。
         </view>
-        <view class='list-time'>2021年9月</view>
+        <view class='list-time'>2022年3月</view>
       </view>
     </view>
 
-    <view class='home-main-list' bindtap='goArticle'>
+
+    <view class='home-main-list' bindtap='goArticle2'>
       <view class='main-list-img-view'>
         <image class='main-list-img' src='../../images/书.jpg'></image>
       </view>
       <view class='list-main'>
-        <view class='list-title'>书法练习轨迹ReadMe</view>
+        <view class='list-title'>无为徐生</view>
         <view class='list-content'>
-          平台自述文件，作自我介绍之意。
+          无为有为，徐生长生。
         </view>
-        <view class='list-time'>2020年9月20日</view>
+        <view class='list-time'>2021年8月</view>
       </view>
     </view>
 
+    
     <view class='home-main-list' bindtap='goArticle'>
       <view class='main-list-img-view'>
-        <image class='main-list-img' src='../../images/明.jpg'></image>
+        <image class='main-list-img' src='../../images/法.jpg'></image>
       </view>
       <view class='list-main'>
-        <view class='list-title'>书法练习轨迹--明月几时有</view>
+        <view class='list-title'>书法练习轨迹</view>
         <view class='list-content'>
           人情必有所寄，习惯而成自然。
         </view>
-        <view class='list-time'>2022年2月16日</view>
+        <view class='list-time'>2020年9月</view>
       </view>
     </view>
+
 </view>
 
 </view>

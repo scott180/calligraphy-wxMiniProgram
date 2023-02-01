@@ -15,6 +15,16 @@ goArticle:function(){
     url: '../article/article',
   })
 },
+goArticle2:function(){
+  wx.navigateTo({
+    url: '../article2/article',
+  })
+},
+goArticle3:function(){
+  wx.navigateTo({
+    url: '../article3/article',
+  })
+},
   /**
    * 生命周期函数--监听页面加载
    */
