@@ -14,10 +14,10 @@
 
 ---
 
-![v1.1.0_1]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.1.0/1.jpg )
+![v1.1.0_1]( https://md.xushufa.cn/gitimg/document/imgs/calligraphy-wxMiniProgram/v1.1.0/1.jpg )
 
 - 截图
-[v1.1.0_1]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.1.0/1.jpg ) &ensp; [v1.1.0_2]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.1.0/2.jpg ) &ensp; [v1.1.0_3]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.1.0/3.jpg )
+[v1.1.0_1]( https://md.xushufa.cn/gitimg/document/imgs/calligraphy-wxMiniProgram/v1.1.0/1.jpg ) &ensp; [v1.1.0_2]( https://md.xushufa.cn/gitimg/document/imgs/calligraphy-wxMiniProgram/v1.1.0/2.jpg ) &ensp; [v1.1.0_3]( https://md.xushufa.cn/gitimg/document/imgs/calligraphy-wxMiniProgram/v1.1.0/3.jpg )
 ---
 
 ### 2、第二版 
@@ -28,10 +28,10 @@
 
 ---
 
-![v1.2.0_2]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.2.0/2.jpg )
+![v1.2.0_2]( https://md.xushufa.cn/gitimg/document/imgs/calligraphy-wxMiniProgram/v1.2.0/2.jpg )
 
 - 截图
-[v1.2.0_1]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.2.0/1.jpg ) &ensp; [v1.2.0_2]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.2.0/2.jpg ) &ensp; [v1.2.0_3]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.2.0/3.jpg )
+[v1.2.0_1]( https://md.xushufa.cn/gitimg/document/imgs/calligraphy-wxMiniProgram/v1.2.0/1.jpg ) &ensp; [v1.2.0_2]( https://md.xushufa.cn/gitimg/document/imgs/calligraphy-wxMiniProgram/v1.2.0/2.jpg ) &ensp; [v1.2.0_3]( https://md.xushufa.cn/gitimg/document/imgs/calligraphy-wxMiniProgram/v1.2.0/3.jpg )
 
 ---
 
@@ -39,7 +39,7 @@
 
 `分支：v1.2.1_20220223`
 
-![v1.2.0_4]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.2.0/4.jpg )
+![v1.2.0_4]( https://md.xushufa.cn/gitimg/document/imgs/calligraphy-wxMiniProgram/v1.2.0/4.jpg )
 
 ---
 
@@ -53,10 +53,21 @@
 
 ---
 
-![v1.3.0_1]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.3.0/1.jpg )
+![v1.3.0_1]( https://md.xushufa.cn/gitimg/document/imgs/calligraphy-wxMiniProgram/v1.3.0/1.jpg )
 
 - 截图
-[v1.3.0_1]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.3.0/1.jpg ) &ensp; [v1.3.0_2]( https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/v1.3.0/2.jpg )
+[v1.3.0_1]( https://md.xushufa.cn/gitimg/document/imgs/calligraphy-wxMiniProgram/v1.3.0/1.jpg ) &ensp; [v1.3.0_2]( https://md.xushufa.cn/gitimg/document/imgs/calligraphy-wxMiniProgram/v1.3.0/2.jpg )
+
+---
+
+### 4、第四版 
+
+> 微信云开发数据库关闭了，不再使用动态数据。页面回滚至第一版，只有静态数据。
+> 文档内容有所变化，只有书法练习轨迹、无为徐生、徐书法三个。
+
+`分支：v1.4_20230201`
+
+---
 
 ***
 
@@ -69,7 +80,7 @@
 
 ---
 
-![calligraphy]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/other/calligraphy-wxMiniProgram.jpg )
+![calligraphy]( https://md.xushufa.cn/gitimg/document/imgs/calligraphy-wxMiniProgram/calligraphy-wxMiniProgram.jpg )
 
 ---
 
